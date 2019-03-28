@@ -1,7 +1,7 @@
 #--------------------------------------------------------------------------
 # Created by Brandon Coats and Nick Moore
 # Material Handling Services
-# Linear Latch Cart Safety Mechanism
+# ACC for multiple robots
 # -------------------------------------------------------------------------
 
 import smbus
