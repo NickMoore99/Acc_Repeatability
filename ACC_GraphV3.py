@@ -1,3 +1,8 @@
+#--------------------------------------------------------------------------
+# Created by Brandon Coats and Nick Moore
+# Material Handling Services
+# ACC Graph V3-Multiple Robots
+# -------------------------------------------------------------------------
 import matplotlib.pyplot as plt 
 import matplotlib.animation as animation 
 from scipy.stats import norm
